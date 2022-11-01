@@ -4,6 +4,8 @@ A bad-USB device based on an ATMEGA32U4.
 
 ## Usage
 
+There is a template in `code\template`. This sets up the device and provides functions for using the virtual keyboard, only the payload itself needs to be added.
+
 1. Choose a payload to upload
 2. Turn the programming switch on then plug the bad-USB	in
 3. Upload by using the Arduino IDE
