@@ -5,6 +5,7 @@ A bad-USB device based on an ATMEGA32U4.
 ## Usage
 
 There is a template in `code\template`. This sets up the device and provides functions for using the virtual keyboard, only the payload itself needs to be added.
+I have added some example payloads that can be found in `code\examples`
 
 1. Choose a payload to upload
 2. Turn the programming switch on then plug the bad-USB	in
